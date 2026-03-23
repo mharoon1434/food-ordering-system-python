@@ -1,6 +1,4 @@
-# food-ordering-system-python
-A console-based Food Ordering System built with Python using OOP, file handling, and modular programming. Supports multiple user roles with order management and data persistence.
-give repo name and description <h1>🍔 Food Ordering System (Python OOP Project)</h1>
+<h1>🍔 Food Ordering System (Python OOP Project)</h1>
 
 <h2>📌 Overview</h2>
 <p>
@@ -111,7 +109,7 @@ project/
 <h2>▶️ How to Run</h2>
 
 <h3>1. Clone the repository</h3>
-<pre><code>git clone https://github.com/your-username/food-ordering-system.git</code></pre>
+<pre><code>git clone https://github.com/mharoon1434/food-ordering-system-python.git</code></pre>
 
 <h3>2. Navigate to project folder</h3>
 <pre><code>cd food-ordering-system</code></pre>
