@@ -1,0 +1,8 @@
+Biryani
+250
+Burger
+300
+Pizza
+800
+Zinger
+350
